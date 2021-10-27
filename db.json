@@ -2,8 +2,13 @@
     "speaker": [
       {
         "id": 1,
-        "model": "Test1",
-        "brand": "Test2"
+        "model": "Dave 18 G3",
+        "brand": "LD Systems"
+      },
+      {
+        "id": 2,
+        "model": "F1 Complete Bundle",
+        "brand": "Bose"
       }
     ]
   }
