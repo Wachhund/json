@@ -1,0 +1,9 @@
+{
+    "speaker": [
+      {
+        "id": 1,
+        "model": "Test1",
+        "brand": "Test2"
+      }
+    ]
+  }
